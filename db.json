@@ -7,27 +7,32 @@
         {
           "name": "Pump Installation",
           "slug": "pump-installation",
-          "desc": "Professional setup of fuel pumps for optimal performance."
+          "desc": "Professional setup of fuel pumps for optimal performance.",
+          "price": 1200
         },
         {
           "name": "Tank Cleaning",
           "slug": "tank-cleaning",
-          "desc": "Thorough cleaning to ensure fuel quality and safety."
+          "desc": "Thorough cleaning to ensure fuel quality and safety.",
+          "price": 850
         },
         {
           "name": "Leak Detection",
           "slug": "leak-detection",
-          "desc": "Advanced systems to detect and prevent fuel leaks."
+          "desc": "Advanced systems to detect and prevent fuel leaks.",
+          "price": 950
         },
         {
           "name": "Fuel Management Systems",
           "slug": "fuel-management-systems",
-          "desc": "Automated solutions for tracking fuel usage."
+          "desc": "Automated solutions for tracking fuel usage.",
+          "price": 1800
         },
         {
           "name": "Dispenser Calibration",
           "slug": "dispenser-calibration",
-          "desc": "Accurate calibration for precise fuel dispensing."
+          "desc": "Accurate calibration for precise fuel dispensing.",
+          "price": 650
         }
       ]
     },
@@ -38,27 +43,32 @@
         {
           "name": "Routine Maintenance",
           "slug": "routine-maintenance",
-          "desc": "Scheduled checks to keep your station running smoothly."
+          "desc": "Scheduled checks to keep your station running smoothly.",
+          "price": 700
         },
         {
           "name": "Emergency Repairs",
           "slug": "emergency-repairs",
-          "desc": "Rapid response for urgent equipment breakdowns."
+          "desc": "Rapid response for urgent equipment breakdowns.",
+          "price": 1100
         },
         {
           "name": "Electrical Services",
           "slug": "electrical-services",
-          "desc": "Safe and reliable electrical system maintenance."
+          "desc": "Safe and reliable electrical system maintenance.",
+          "price": 900
         },
         {
           "name": "Pipe Replacement",
           "slug": "pipe-replacement",
-          "desc": "Replacement of old or damaged fuel pipes."
+          "desc": "Replacement of old or damaged fuel pipes.",
+          "price": 1500
         },
         {
           "name": "Canopy Repairs",
           "slug": "canopy-repairs",
-          "desc": "Restoration and repair of station canopies."
+          "desc": "Restoration and repair of station canopies.",
+          "price": 600
         }
       ]
     },
@@ -69,27 +79,32 @@
         {
           "name": "Site Assessment",
           "slug": "site-assessment",
-          "desc": "Comprehensive evaluation of your fuel station site."
+          "desc": "Comprehensive evaluation of your fuel station site.",
+          "price": 1000
         },
         {
           "name": "Regulatory Compliance",
           "slug": "regulatory-compliance",
-          "desc": "Ensuring your station meets all legal standards."
+          "desc": "Ensuring your station meets all legal standards.",
+          "price": 950
         },
         {
           "name": "Environmental Consulting",
           "slug": "environmental-consulting",
-          "desc": "Advice on minimizing environmental impact."
+          "desc": "Advice on minimizing environmental impact.",
+          "price": 1100
         },
         {
           "name": "Safety Training",
           "slug": "safety-training",
-          "desc": "Training staff on safety protocols and procedures."
+          "desc": "Training staff on safety protocols and procedures.",
+          "price": 800
         },
         {
           "name": "Project Management",
           "slug": "project-management",
-          "desc": "End-to-end management of station projects."
+          "desc": "End-to-end management of station projects.",
+          "price": 1600
         }
       ]
     },
@@ -100,27 +115,32 @@
         {
           "name": "POS System Integration",
           "slug": "pos-system-integration",
-          "desc": "Seamless integration of point-of-sale systems."
+          "desc": "Seamless integration of point-of-sale systems.",
+          "price": 1400
         },
         {
           "name": "Remote Monitoring",
           "slug": "remote-monitoring",
-          "desc": "Monitor station operations from anywhere."
+          "desc": "Monitor station operations from anywhere.",
+          "price": 1250
         },
         {
           "name": "Mobile App Solutions",
           "slug": "mobile-app-solutions",
-          "desc": "Custom apps for customer engagement and management."
+          "desc": "Custom apps for customer engagement and management.",
+          "price": 2000
         },
         {
           "name": "Smart Payment Terminals",
           "slug": "smart-payment-terminals",
-          "desc": "Modern terminals for fast, secure payments."
+          "desc": "Modern terminals for fast, secure payments.",
+          "price": 1750
         },
         {
           "name": "IoT Device Setup",
           "slug": "iot-device-setup",
-          "desc": "Connecting devices for smarter fuel stations."
+          "desc": "Connecting devices for smarter fuel stations.",
+          "price": 1300
         }
       ]
     }
