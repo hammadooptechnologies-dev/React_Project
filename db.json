@@ -1,25 +1,128 @@
 {
   "services": [
-    { "id": 1, "name": "Pump Installation", "desc": "Professional setup of fuel pumps for optimal performance.", "price": 1500 },
-    { "id": 2, "name": "Tank Cleaning", "desc": "Thorough cleaning to ensure fuel quality and safety.", "price": 800 },
-    { "id": 3, "name": "Leak Detection", "desc": "Advanced systems to detect and prevent fuel leaks.", "price": 1200 },
-    { "id": 4, "name": "Fuel Management Systems", "desc": "Automated solutions for tracking fuel usage.", "price": 2500 },
-    { "id": 5, "name": "Dispenser Calibration", "desc": "Accurate calibration for precise fuel dispensing.", "price": 600 },
-    { "id": 6, "name": "Routine Maintenance", "desc": "Scheduled checks to keep your station running smoothly.", "price": 700 },
-    { "id": 7, "name": "Emergency Repairs", "desc": "Rapid response for urgent equipment breakdowns.", "price": 1000 },
-    { "id": 8, "name": "Electrical Services", "desc": "Safe and reliable electrical system maintenance.", "price": 900 },
-    { "id": 9, "name": "Pipe Replacement", "desc": "Replacement of old or damaged fuel pipes.", "price": 1800 },
-    { "id": 10, "name": "Canopy Repairs", "desc": "Restoration and repair of station canopies.", "price": 1300 },
-    { "id": 11, "name": "Site Assessment", "desc": "Comprehensive evaluation of your fuel station site.", "price": 500 },
-    { "id": 12, "name": "Regulatory Compliance", "desc": "Ensuring your station meets all legal standards.", "price": 400 },
-    { "id": 13, "name": "Environmental Consulting", "desc": "Advice on minimizing environmental impact.", "price": 900 },
-    { "id": 14, "name": "Safety Training", "desc": "Training staff on safety protocols and procedures.", "price": 600 },
-    { "id": 15, "name": "Project Management", "desc": "End-to-end management of station projects.", "price": 2000 },
-    { "id": 16, "name": "POS System Integration", "desc": "Seamless integration of point-of-sale systems.", "price": 1500 },
-    { "id": 17, "name": "Remote Monitoring", "desc": "Monitor station operations from anywhere.", "price": 1100 },
-    { "id": 18, "name": "Mobile App Solutions", "desc": "Custom apps for customer engagement and management.", "price": 3000 },
-    { "id": 19, "name": "Smart Payment Terminals", "desc": "Modern terminals for fast, secure payments.", "price": 1700 },
-    { "id": 20, "name": "IoT Device Setup", "desc": "Connecting devices for smarter fuel stations.", "price": 1400 },
-    { "id": 21, "name": "Fuel Station Design", "desc": "Innovative design and layout planning for efficient operations.", "price": 2200 }
+    {
+      "category": "Fuel Station Services",
+      "slug": "fuel-station-services",
+      "services": [
+        {
+          "name": "Pump Installation",
+          "slug": "pump-installation",
+          "desc": "Professional setup of fuel pumps for optimal performance."
+        },
+        {
+          "name": "Tank Cleaning",
+          "slug": "tank-cleaning",
+          "desc": "Thorough cleaning to ensure fuel quality and safety."
+        },
+        {
+          "name": "Leak Detection",
+          "slug": "leak-detection",
+          "desc": "Advanced systems to detect and prevent fuel leaks."
+        },
+        {
+          "name": "Fuel Management Systems",
+          "slug": "fuel-management-systems",
+          "desc": "Automated solutions for tracking fuel usage."
+        },
+        {
+          "name": "Dispenser Calibration",
+          "slug": "dispenser-calibration",
+          "desc": "Accurate calibration for precise fuel dispensing."
+        }
+      ]
+    },
+    {
+      "category": "Maintenance & Repairs",
+      "slug": "maintenance-repairs",
+      "services": [
+        {
+          "name": "Routine Maintenance",
+          "slug": "routine-maintenance",
+          "desc": "Scheduled checks to keep your station running smoothly."
+        },
+        {
+          "name": "Emergency Repairs",
+          "slug": "emergency-repairs",
+          "desc": "Rapid response for urgent equipment breakdowns."
+        },
+        {
+          "name": "Electrical Services",
+          "slug": "electrical-services",
+          "desc": "Safe and reliable electrical system maintenance."
+        },
+        {
+          "name": "Pipe Replacement",
+          "slug": "pipe-replacement",
+          "desc": "Replacement of old or damaged fuel pipes."
+        },
+        {
+          "name": "Canopy Repairs",
+          "slug": "canopy-repairs",
+          "desc": "Restoration and repair of station canopies."
+        }
+      ]
+    },
+    {
+      "category": "Consulting & Compliance",
+      "slug": "consulting-compliance",
+      "services": [
+        {
+          "name": "Site Assessment",
+          "slug": "site-assessment",
+          "desc": "Comprehensive evaluation of your fuel station site."
+        },
+        {
+          "name": "Regulatory Compliance",
+          "slug": "regulatory-compliance",
+          "desc": "Ensuring your station meets all legal standards."
+        },
+        {
+          "name": "Environmental Consulting",
+          "slug": "environmental-consulting",
+          "desc": "Advice on minimizing environmental impact."
+        },
+        {
+          "name": "Safety Training",
+          "slug": "safety-training",
+          "desc": "Training staff on safety protocols and procedures."
+        },
+        {
+          "name": "Project Management",
+          "slug": "project-management",
+          "desc": "End-to-end management of station projects."
+        }
+      ]
+    },
+    {
+      "category": "Automation & Technology",
+      "slug": "automation-technology",
+      "services": [
+        {
+          "name": "POS System Integration",
+          "slug": "pos-system-integration",
+          "desc": "Seamless integration of point-of-sale systems."
+        },
+        {
+          "name": "Remote Monitoring",
+          "slug": "remote-monitoring",
+          "desc": "Monitor station operations from anywhere."
+        },
+        {
+          "name": "Mobile App Solutions",
+          "slug": "mobile-app-solutions",
+          "desc": "Custom apps for customer engagement and management."
+        },
+        {
+          "name": "Smart Payment Terminals",
+          "slug": "smart-payment-terminals",
+          "desc": "Modern terminals for fast, secure payments."
+        },
+        {
+          "name": "IoT Device Setup",
+          "slug": "iot-device-setup",
+          "desc": "Connecting devices for smarter fuel stations."
+        }
+      ]
+    }
   ]
 }
