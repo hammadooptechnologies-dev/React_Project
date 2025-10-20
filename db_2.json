@@ -1,5 +1,6 @@
-[
 {
+  "services_1": [
+      {
     "category": "Energy Efficiency Solutions",
     "slug": "energy-efficiency-solutions",
     "services": [
@@ -108,3 +109,5 @@
     ]
   }
 ]
+}
+    
